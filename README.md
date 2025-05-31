@@ -26,11 +26,13 @@ Este é um projeto básico desenvolvido com **React** utilizando **JSX**, com o 
 
 ---
 
-## 🧠 Estrutura do Projeto
+## 📁 Estrutura do Projeto
 
+<!-- TREEVIEW START -->
 aula_11
 ├── App.jsx
 ├── index.html
 ├── index.js
 ├── README.md
 └── style.css
+<!-- TREEVIEW END -->
