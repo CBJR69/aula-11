@@ -11,8 +11,6 @@ Este é um projeto básico desenvolvido com **React** utilizando **JSX**, com o 
 - ✅ Uso de **props** para comunicação entre componentes.
 - ✅ Manipulação de **estado** com `useState`.
 - ✅ Renderização condicional.
-- ✅ Listas e uso de `map()` para renderização dinâmica.
-- ✅ Eventos (como `onClick`).
 - ✅ Estilização básica com CSS.
 
 ---
